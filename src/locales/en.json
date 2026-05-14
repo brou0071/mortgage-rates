@@ -1,0 +1,66 @@
+{
+  "header": {
+    "applications": "Applications"
+  },
+  "footer": {
+    "rights": "All Rights Reserved."
+  },
+  "products": {
+    "loading": "Loading...",
+    "creatingApplication": "Creating application...",
+    "errorTitle": "Unable to load products",
+    "fixedHeading": "Lowest fixed rate products",
+    "variableHeading": "Lowest variable rate products"
+  },
+  "product": {
+    "select": "Select this product"
+  },
+  "applications": {
+    "loading": "Loading...",
+    "errorTitle": "Unable to load applications",
+    "heading": "Applications",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "product": "Product",
+    "edit": "Edit",
+    "backToProducts": "Back to Products"
+  },
+  "form": {
+    "loadingProduct": "Loading product...",
+    "noProduct": "No products available",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "firstNamePlaceholder": "Enter first name",
+    "lastNamePlaceholder": "Enter last name",
+    "emailPlaceholder": "Enter email address",
+    "phonePlaceholder": "Enter phone number",
+    "submit": "Submit",
+    "saving": "Saving...",
+    "successMessage": "Form submitted successfully!",
+    "errorMessage": "Failed to update application. Please try again."
+  },
+  "errorBoundary": {
+    "title": "Something went wrong.",
+    "defaultMessage": "An unexpected error occurred.",
+    "reload": "Reload page"
+  },
+  "error": {
+    "httpStatusDescriptions": {
+      "400": "Bad request.",
+      "401": "Unauthorized.",
+      "403": "Forbidden.",
+      "404": "Not found.",
+      "500": "Internal server error.",
+      "503": "Service unavailable."
+    }
+  },
+  "notFound": {
+    "title": "404 - Page not found",
+    "message": "Return to",
+    "listings": "Listings"
+  }
+}

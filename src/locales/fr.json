@@ -1,0 +1,66 @@
+{
+  "header": {
+    "applications": "Demandes"
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  },
+  "products": {
+    "loading": "Chargement...",
+    "creatingApplication": "Création de la demande...",
+    "errorTitle": "Impossible de charger les produits",
+    "fixedHeading": "Produits à taux fixe les plus bas",
+    "variableHeading": "Produits à taux variable les plus bas"
+  },
+  "product": {
+    "select": "Choisir ce produit"
+  },
+  "applications": {
+    "loading": "Chargement...",
+    "errorTitle": "Impossible de charger les demandes",
+    "heading": "Demandes",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "email": "Courriel",
+    "phone": "Téléphone",
+    "product": "Produit",
+    "edit": "Modifier",
+    "backToProducts": "Retour aux produits"
+  },
+  "form": {
+    "loadingProduct": "Chargement du produit...",
+    "noProduct": "Aucun produit disponible",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "email": "Courriel",
+    "phone": "Téléphone",
+    "firstNamePlaceholder": "Entrez votre prénom",
+    "lastNamePlaceholder": "Entrez votre nom de famille",
+    "emailPlaceholder": "Entrez votre adresse courriel",
+    "phonePlaceholder": "Entrez votre numéro de téléphone",
+    "submit": "Soumettre",
+    "saving": "Enregistrement...",
+    "successMessage": "Formulaire soumis avec succès!",
+    "errorMessage": "Échec de la mise à jour de la demande. Veuillez réessayer."
+  },
+  "errorBoundary": {
+    "title": "Une erreur s'est produite.",
+    "defaultMessage": "Une erreur inattendue s'est produite.",
+    "reload": "Recharger la page"
+  },
+  "error": {
+    "httpStatusDescriptions": {
+      "400": "Requête invalide.",
+      "401": "Non autorisé.",
+      "403": "Accès refusé.",
+      "404": "Introuvable.",
+      "500": "Erreur interne du serveur.",
+      "503": "Service indisponible."
+    }
+  },
+  "notFound": {
+    "title": "404 - Page introuvable",
+    "message": "Retourner à",
+    "listings": "Demandes"
+  }
+}
